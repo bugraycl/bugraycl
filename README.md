@@ -9,7 +9,7 @@ My name is Buğra Yücel, and I am 20 years old. I started taking an interest in
 * 🌍  I'm based in Istanbul, Turkey
 * 🖥️  See my portfolio at [MyPortfoilo](http://bugrayucel.com.tr)
 * ✉️  You can contact me at [byuucel@gmail.com](mailto:byuucel@gmail.com)
-* 🧠  I'm learning C#/.NET
+* 🧠  I'm learning .NET
 * ⚡  If you want to go big, stop thinking small.
 
 <a href="https://www.github.com/bugraycl" target="_blank" rel="noreferrer"><img
